@@ -1,1 +1,1 @@
-#[Виселица](https://freeworldbox.github.io/game/)
+[Виселица](https://freeworldbox.github.io/game/)
